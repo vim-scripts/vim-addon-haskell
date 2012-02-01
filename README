@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3916
+
+reconfigures cabal project, run cabal in background. Suggests import lines based on tag files and quickfix errors ...
+
+This all is based on vim-addon-actions thus you can bind the "recompile" action to a key or to the if any buf was written action.
+
+This plugin just does what I need.
+Want to run ghci in VIM? give SHIM or vim-addon-async a try.
